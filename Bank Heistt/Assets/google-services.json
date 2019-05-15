@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8594702709",
+    "firebase_url": "https://bankhiest.firebaseio.com",
+    "project_id": "bankhiest",
+    "storage_bucket": "bankhiest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8594702709:android:a6a34d92a8aa8519",
+        "android_client_info": {
+          "package_name": "com.sad.bankhiest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8594702709-vcn35tlevm7akajl5997844fku33u3bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb-K6JNCW7M7P8xo1_o50b-OdNSYwkYv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
